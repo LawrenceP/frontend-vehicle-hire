@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "make": {
+      "name": "Ford"
+    },
+    "model": {
+      "name": "Focus"
+    },
+    "registrationNumber": "giuhylgig",
+    "fuelType": {
+      "name": "Diesel"
+    },
+    "category": {
+      "name": "Small",
+      "price_per_day": "12",
+      "id": 1
+    },
+    "available": true
+  },
+  {
+    "id": 2,
+    "make": {
+      "name": "Vauxhall"
+    },
+    "model": {
+      "name": "Vectra"
+    },
+    "registrationNumber": "gykuguyg",
+    "fuelType": {
+      "name": "Petrol"
+    },
+    "category": {
+      "name": "Medium",
+      "price_per_day": "36",
+      "id": 2
+    },
+    "available": true
+  }
+]

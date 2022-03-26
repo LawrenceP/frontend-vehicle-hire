@@ -1,0 +1,40 @@
+[
+  {
+    "id": 3,
+    "make": {
+      "name": "Toyata"
+    },
+    "model": {
+      "name": "Yaris"
+    },
+    "registrationNumber": "kjhuhg",
+    "fuelType": {
+      "name": "Diesel"
+    },
+    "category": {
+      "name": "Small",
+      "price_per_day": "12",
+      "id": 1
+    },
+    "available": false
+  },
+  {
+    "id": 4,
+    "make": {
+      "name": "Honda"
+    },
+    "model": {
+      "name": "Civic"
+    },
+    "registrationNumber": "gykuguyg",
+    "fuelType": {
+      "name": "Petrol"
+    },
+    "category": {
+      "name": "Large",
+      "price_per_day": "36",
+      "id": 3
+    },
+    "available": false
+  }
+]
